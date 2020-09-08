@@ -13,6 +13,8 @@ I'm Louise. I'm a Front-end Web developer.
 
 🌱 I'm currently learning about [Single Div Drawings with CSS](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/) 
 
+🔭 [my github pages site](https://louisecamlin.github.io/) (currently a work in progress 😉)
+
 ### 📫 How to reach me?
 Here is my [Linkedin](https://www.linkedin.com/in/louise-camlin) profile. 
 
