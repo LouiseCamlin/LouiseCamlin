@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Louise. I'm a Front-end Web developer. 
+I'm Louise. I'm a Software Developer mostly interested in front-end. 
 
 
 ### About Me
